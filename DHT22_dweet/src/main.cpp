@@ -5,7 +5,7 @@ const char * SSID = "Aguapanela";
 const char * PASS = "Pamelachu";
 //const char * HOST = "www.google.com";
 const char * HOST = "dweet.io";
-const char * NOSE = "Anacleto01";
+const char * NOSE = "Anacleto22";
 const int PORT = 80; //puerto por defecto
 
 #define DHTPIN 4
